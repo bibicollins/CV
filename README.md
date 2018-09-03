@@ -1,9 +1,7 @@
-# Bibi Collins  <p align="right">[![alt text][1.1]][1][![alt text][2.1]][2]</p>
+# Bibi Collins <p align="right"><a href="https://www.linkedin.com/in/bibi-collins-a51b48136/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"><a href="https://github.com/bibicollins"><img src="https://png.icons8.com/metro/1600/github.png" alt="github" hspace="50" height="42" width="42"></a>
  [Projects](#projects) |[Skills](#skills) |[Education](#education) |[Experience](#experience)
 
 
-[1.1]: https://imgur.com/CIIhdq0.png
-[2.1]: https://imgur.com/X1L3zv6.png
 
 [1]: https://www.linkedin.com/in/bibi-collins-a51b48136/
 [2]: https://github.com/bibicollins
