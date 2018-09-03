@@ -1,5 +1,5 @@
-## Bibi Collins                                                                 <p align="right">[![alt text][1.1]][1]</p>
- [Projects](#projects) |[Skills](#skills) |[Education](#education) |[Experience](#experience)| 
+## Bibi Collins  <p align="right">[![alt text][1.1]][1]</p>
+ [Projects](#projects) |[Skills](#skills) |[Education](#education) |[Experience](#experience)
 
 
 [1.1]: https://imgur.com/CIIhdq0.png
