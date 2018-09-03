@@ -6,8 +6,10 @@
 
 [1]: https://www.linkedin.com/in/bibi-collins-a51b48136/
 
-I have recently finished a 16 week intensive programming bootcamp - [Makers](https://makers.tech/) it was during this course I was introduced to such concepts as Agile process, TDD
-I have always had a love of learning across all subject matters, and it is predominantly for this reason I discovered and soon became engrossed in the world of programming, it is the combination of mathematics, language and creativity that I find fascinating, paired with the opportunity for growth of and within the field.
+I have recently completed a 16-week intensive programming bootcamp at Makers, I applied for the course because I had found a real interest in software and having graduated from the course, software development has in turn graduated from an interest into my absolute path. 
+
+
+I have always had a love of learning across many subject matters, and it is predominantly for this reason I became engrossed in the world of programming, it is the combination of mathematics, language and creativity that I find fascinating, paired with the opportunity for growth of and within the field.
 
 ## Projects
 | Project link | Description | Date started | Languages & Technologies | 
@@ -20,37 +22,28 @@ I have always had a love of learning across all subject matters, and it is predo
 
 ## Skills
 
-#### Adaptability(?)
-In July 2016 I moved to Spain to learn Spanish, naturally I had to work to earn my keep, so I studied a TEFL course and quickly got a job as an English teacher at an immersive language course. Despite having no previous experience of teaching I quickly had to adapt to the classroom whilst teaching predominantly business professionals in an intensive course.
+  
 
 #### Team work
-I have always been a huge proponent of team work as it has been a central element in most of my work and life experience thus far. I was always part of sports teams at school, which I believe gives a good foundation for teamwork skills and further developed my teamwork skills working in the hospitality sector after school.
+I have always been a huge proponent of team work as it has been a central element in most of my work and life experience thus far, and I believe it is where I thrive. In our group projects 
 
 
-#### 
+#### Adaptability
+Learning a foreign language has always been on my list, so I took my Spanish GCSE and moved to Bilbao in July 2016. Soon after I studied a TEFL course online and quickly got a job as an English teacher at an immersive language course despite having no previous experience of teaching. I had to adapt to the classroom teaching predominantly business professionals, whilst also adapting to a new place, culture and learning a new language. This showed to be useful at Makers as we were learning multiple different skills, styles of work and work practices all in a new environment and working closely with new people.  
 
 
 
 ## Education
 
-#### Makers Academy (June 2018 to end_date)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
+#### [Makers](https://makers.tech/) (June 2018 to end_date)
+The Makers course has a real emphasis on good coding practise, 
+- OOP, TDD, MVC
 - Agile/XP
-- Ruby, Rails, JavaScript
+- Ruby, Rails, JavaScript, 
 - RSpec, Jasmine
 
 #### London College of Fashion (September 2014 to July 2015)
 - Fashion Pattern Cutting
-
-#### Bedales School
-- A Levels: Biology, History, Design
--GCSE's: A*, 5 A's & 3 B's
-
 
 ## Other Skills
 
@@ -63,7 +56,8 @@ I have always been a huge proponent of team work as it has been a central elemen
 *Carer*  
 **Optima Communications** (Nov 2016 to Aug 2017)   
 *English Teacher*  
-**
+**The Diner** (Nov 2015 to July 2016)
+*Bar Manager and Floor Supervisor*
 
 ## Interests
 - Making Clothes 
