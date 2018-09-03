@@ -1,8 +1,8 @@
-## Bibi Collins 
+## Bibi Collins                                                                 <p align="right">[![alt text][1.1]][1]
 [Skills](#skills)[Education](#education)[Experience](#experience)[Projects](#projects)    
-[![alt text][1.1]][1]
 
-[1.1]: https://imgur.com/KyoIhna.png
+
+[1.1]: https://imgur.com/CIIhdq0.png
 
 [1]: https://www.linkedin.com/in/bibi-collins-a51b48136/
 
@@ -71,4 +71,3 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *English Teacher*  
 **
 
-https://uk.linkedin.com/in/bibi-collins-a51b48136?trk=profile-badge.png
