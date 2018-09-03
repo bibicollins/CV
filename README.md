@@ -6,7 +6,7 @@
 
 [1]: https://www.linkedin.com/in/bibi-collins-a51b48136/
 
-I have recently completed a 16-week intensive programming bootcamp at Makers, where I learnt not only programming languages but also applied the principles of TDD, OOD, Agile processes and more. I applied for the course because I had found a real interest in software and how it can combine mathematics, language and creativity. I am now looking to further my knowledge in what has in turn graduated from being a strong interest into my/absolute/path/.
+I have recently graduated from a 16-week intensive programming bootcamp at Makers, where I learnt not only programming languages but also applied the principles of TDD, OOD, Agile processes and more. I joined the course because I had found a real interest in software and how it can combine mathematics, language and creativity. I am now looking to further my knowledge in what has in turn graduated from being a strong interest into my/absolute/path/.
 
 
 ## Projects
