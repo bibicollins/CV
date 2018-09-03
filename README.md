@@ -6,10 +6,8 @@
 
 [1]: https://www.linkedin.com/in/bibi-collins-a51b48136/
 
-I have recently completed a 16-week intensive programming bootcamp at Makers, I applied for the course because I had found a real interest in software and having graduated from the course, software development has in turn graduated from an interest into my absolute path. 
+I have recently completed a 16-week intensive programming bootcamp at Makers, where I learnt not only programming languages but also applied the principles of TDD, OOD, Agile processes and more. I applied for the course because I had found a real interest in software and how it can combine mathematics, language and creativity. I am now looking to further my knowledge in what has in turn graduated from being a strong interest into my/absolute/path/.
 
-
-I have always had a love of learning across many subject matters, and it is predominantly for this reason I became engrossed in the world of programming, it is the combination of mathematics, language and creativity that I find fascinating, paired with the opportunity for growth of and within the field.
 
 ## Projects
 | Project link | Description | Date started | Languages & Technologies | 
@@ -21,44 +19,46 @@ I have always had a love of learning across many subject matters, and it is pred
 
 
 ## Skills
-
   
-
 #### Team work
-I have always been a huge proponent of team work as it has been a central element in most of my work and life experience thus far, and I believe it is where I thrive. In our group projects 
-
+I grew up in a large family, a dynamic where being a team player is essentially a necessary requirement for survival. Starting there and continuing through to my work experience I have always been a big proponent of teamwork. Though somewhat less dramatic in the workplace, I enjoy and want to use those skills wherever I go. We had three group projects during the Makers course where I believe my ability to navigate multiple personalities and work preferences of a team whilst also making myself personally valuable to the project was clear.
 
 #### Adaptability
-Learning a foreign language has always been on my list, so I took my Spanish GCSE and moved to Bilbao in July 2016. Soon after I studied a TEFL course online and quickly got a job as an English teacher at an immersive language course despite having no previous experience of teaching. I had to adapt to the classroom teaching predominantly business professionals, whilst also adapting to a new place, culture and learning a new language. This showed to be useful at Makers as we were learning multiple different skills, styles of work and work practices all in a new environment and working closely with new people.  
+Learning a foreign language has always been on my list, so I took my Spanish GCSE and moved to Bilbao in July 2016. Soon after I studied a TEFL course online and quickly got a job as an English teacher at an immersive language course despite having no previous experience of teaching. I had to adapt to the classroom, teaching predominantly business English. Given that I had no prior business experience this also demonstrated that I am a quick learner. I did this whilst also adapting to a new place, culture and learning a new language. This showed to be useful at Makers as we were learning multiple different skills, styles of work and work practices all in a new environment and working closely with new people.  
 
+#### Communication
+I am of the belief that good communication begins with listening, I hope so anyway because that's where this section is going. I have been told on multiple occasions that one of my best qualities is that I have the ability to listen, I listen so I can make the best decision on how to communicate with people, and to properly understand what it is they want to communicate. This made pairing, though a new work process, an easy transition for me. I find I work best when I can bounce my ideas off others and also justify my decisions through vocalising them. 
 
 
 ## Education
 
 #### [Makers](https://makers.tech/) (June 2018 to end_date)
-The Makers course has a real emphasis on good coding practise, 
+I learnt both Javascript and Ruby as my main programming languages, though also took a brief fizzbuzz foray into python and later furthered my knowledge in our final project. 
+The makers course has a real emphasis on good coding practice, so from the beginning we learnt concepts such as TDD, OOD and Agile processes. All base principles that I kept to in my projects 
+
 - OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript, 
 - RSpec, Jasmine
 
 #### London College of Fashion (September 2014 to July 2015)
-- Fashion Pattern Cutting
+- Fashion Pattern Cutting 
 
 ## Other Skills
 
-#### Spanish Level C1
+#### Spanish Level C1 
 #### TEFL Qualification
 
 ## Experience
 
 **Heath Lodge Care Services** (Feb 2018 to June 2018)    
-*Carer*  
+*I worked as a carer for both elderly and disabled people, travelling to their homes to help with personal and domestic care.*  
 **Optima Communications** (Nov 2016 to Aug 2017)   
-*English Teacher*  
+*I worked as an English Teacher at an immersion course  in Burgos, Spain *  
 **The Diner** (Nov 2015 to July 2016)
 *Bar Manager and Floor Supervisor*
 
 ## Interests
 - Making Clothes 
+- Any and all sports
 - 
