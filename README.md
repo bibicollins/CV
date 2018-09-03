@@ -56,7 +56,7 @@ Throughout the course I gained experience in:
 **Optima Communications** (Nov 2016 to Aug 2017)   
 *I worked as an English Teacher at an immersion course  in Burgos, Spain*  
 
-**The Diner** (Nov 2015 to July 2016)
+**The Diner** (Nov 2015 to July 2016)                      
 *Bar Manager and Floor Supervisor*
 
 ## Other Skills
