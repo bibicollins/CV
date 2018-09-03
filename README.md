@@ -1,11 +1,12 @@
-# Bibi Collins  <p align="right">[![alt text][1.1]][1]</p>
+# Bibi Collins  <p align="right">[![alt text][1.1]][1][![alt text][2.1]][2]</p>
  [Projects](#projects) |[Skills](#skills) |[Education](#education) |[Experience](#experience)
 
 
 [1.1]: https://imgur.com/CIIhdq0.png
+[2.1]: https://imgur.com/X1L3zv6.png
 
 [1]: https://www.linkedin.com/in/bibi-collins-a51b48136/
-
+[2]: https://github.com/bibicollins
 I have recently graduated from a 16-week intensive programming bootcamp at Makers, where I learnt not only programming languages but also applied the principles of TDD, OOD, Agile processes and more. I joined the course because I had found a real interest in software and how it can combine mathematics, language and creativity. I am now looking to further my knowledge in what has in turn graduated from being a strong interest into my/absolute/path/.
 
 
