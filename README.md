@@ -46,10 +46,6 @@ Throughout the course I gained experience in:
 #### London College of Fashion (September 2014 to July 2015)
 - Fashion Pattern Cutting 
 
-## Other Skills
-
-#### Spanish Level C1 
-#### TEFL Qualification
 
 ## Experience
 
@@ -60,6 +56,11 @@ Throughout the course I gained experience in:
 
 **The Diner** (Nov 2015 to July 2016)
 *Bar Manager and Floor Supervisor*
+
+## Other Skills
+
+#### Spanish Level C1 
+#### TEFL Qualification
 
 ## Interests
 - Making Clothes 
