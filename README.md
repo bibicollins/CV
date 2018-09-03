@@ -12,7 +12,7 @@ I have recently completed a 16-week intensive programming bootcamp at Makers, wh
 ## Projects
 | Project link | Description | Date started | Languages & Technologies | 
 |--------------|-------------|--------------|--------------------------|
-| :sun_with_face:[Array of Sunshine](https://github.com/bibicollins/array_of_sunshine) | The final project at makers academy, built in a group of 4 during the last 2 weeks of the course. We built an educational tool for beginner programmers wanting to sharpen up their array method knowledge in 3 programming languages (Javascript, Ruby and Python). The application is built with a react front-end and an express backend. Fully deployed on heroku here: https://hip-hip-array.herokuapp.com/ | Weeks 11 & 12 of Makers | React, Express, Heroku, Nodejs, Jest, Enzyme, Javascript, Ruby, Python | 
+| :sun_with_face:[Array of Sunshine](https://github.com/bibicollins/array_of_sunshine) | The final project at Makers, built in a group of 4 during the last 2 weeks of the course. We built an educational tool for beginner programmers wanting to sharpen up their array method knowledge in 3 programming languages (Javascript, Ruby and Python). The application is built with a react front-end and an express backend. Fully deployed on heroku here: https://hip-hip-array.herokuapp.com/ | Weeks 11 & 12 of Makers | React, Express, Heroku, Nodejs, Jest, Enzyme, Javascript, Ruby, Python | 
 | :moneybag:[Bank Tech Test](https://github.com/bibicollins/Bank_tech_test) | Simulating a professional level tech test using Ruby to create a simple bank account that can print a summary of transactions in the console. The main focus of this week was to demonstrate my learning so far, especially focusing on TDD, OOD and writing code that is easy to read & change.  | Week 10 of Makers | Ruby, Rspec, Simplecov | 
 | :umbrella:[Thermostat](https://github.com/bibicollins/thermostat) |  Entering the world of Javascript by creating a front-end thermostat web application. The primary goal of this week was to first learn Javascript and continue to consolidate skills such as TDD within its implementation. This was also the first time using jQuery to build interactive functionality into a webpage.  | Week 5 of Makers | Javascript, Jasmine, Jquery | 
 | :house:[Acebook](https://github.com/bibicollins/acebook-ruff-criminals) | Our first 2 week group project, designed to replicate a professional working environment, focusing heavily on using Agile process. | Weeks 8 & 9 of Makers | Ruby on Rails, Rspec, Capybara, Selenium and SimpleCov |
@@ -21,25 +21,27 @@ I have recently completed a 16-week intensive programming bootcamp at Makers, wh
 ## Skills
   
 #### Team work
-I grew up in a large family, a dynamic where being a team player is essentially a necessary requirement for survival. Starting there and continuing through to my work experience I have always been a big proponent of teamwork. Though somewhat less dramatic in the workplace, I enjoy and want to use those skills wherever I go. We had three group projects during the Makers course where I believe my ability to navigate multiple personalities and work preferences of a team whilst also making myself personally valuable to the project was clear.
+I am a big proponent of teamwork. I grew up in a large family, a dynamic where being a team player is essentially a necessary requirement for survival. Though somewhat less dramatic in the workplace, I enjoy and want to use those skills wherever I go. We had three group projects during the Makers course where my ability to navigate multiple personalities and work styles whilst making myself personally valuable to the project was clear.
 
 #### Adaptability
-Learning a foreign language has always been on my list, so I took my Spanish GCSE and moved to Bilbao in July 2016. Soon after I studied a TEFL course online and quickly got a job as an English teacher at an immersive language course despite having no previous experience of teaching. I had to adapt to the classroom, teaching predominantly business English. Given that I had no prior business experience this also demonstrated that I am a quick learner. I did this whilst also adapting to a new place, culture and learning a new language. This showed to be useful at Makers as we were learning multiple different skills, styles of work and work practices all in a new environment and working closely with new people.  
+I always wanted to learn a foreign language. So I took my Spanish GCSE and moved to Bilbao in July 2016. I studied a TEFL course online and quickly got a job as an English teacher at an immersive language course without any previous experience of teaching. I had to adapt to the classroom, teaching predominantly business English. Given that I also had no prior business experience this demonstrated that I am a quick learner. I did this whilst adapting to a new place, culture and language. This showed to be useful at Makers as we were learning multiple different skills and work practices all in a new environment working closely with new people. 
 
 #### Communication
-I am of the belief that good communication begins with listening, I hope so anyway because that's where this section is going. I have been told on multiple occasions that one of my best qualities is that I have the ability to listen, I listen so I can make the best decision on how to communicate with people, and to properly understand what it is they want to communicate. This made pairing, though a new work process, an easy transition for me. I find I work best when I can bounce my ideas off others and also justify my decisions through vocalising them. 
+Good communication begins with listening. I have been told on multiple occasions that one of my best qualities the ability to listen. I listen so I can make the best decision on how to communicate with people, and to properly understand what they want to convey. This made pairing, though a new work process, an easy transition for me. I find I work best when I can bounce my ideas off others and also justify my decisions through vocalising them. 
 
 
 ## Education
 
 #### [Makers](https://makers.tech/) (June 2018 to end_date)
 I learnt both Javascript and Ruby as my main programming languages, though also took a brief fizzbuzz foray into python and later furthered my knowledge in our final project. 
-The makers course has a real emphasis on good coding practice, so from the beginning we learnt concepts such as TDD, OOD and Agile processes. All base principles that I kept to in my projects 
-
-- OOP, TDD, MVC
-- Agile/XP
-- Ruby, Rails, JavaScript, 
-- RSpec, Jasmine
+The makers course has a real emphasis on good coding practice, so from the beginning we learnt concepts such as TDD, OOD and Agile processes. 
+Throughout the course I gained experience in: 
+- Ruby, Javascript, Python
+- Rspec, Jasmine, Cypress, Jest, Simplecov, Istanbul
+- Rails, Nodejs, Express
+- React, jQuery 
+- SQL
+- Heroku, Travis CI, Codeclimate 
 
 #### London College of Fashion (September 2014 to July 2015)
 - Fashion Pattern Cutting 
@@ -54,11 +56,13 @@ The makers course has a real emphasis on good coding practice, so from the begin
 **Heath Lodge Care Services** (Feb 2018 to June 2018)    
 *I worked as a carer for both elderly and disabled people, travelling to their homes to help with personal and domestic care.*  
 **Optima Communications** (Nov 2016 to Aug 2017)   
-*I worked as an English Teacher at an immersion course  in Burgos, Spain *  
+*I worked as an English Teacher at an immersion course  in Burgos, Spain*  
+
 **The Diner** (Nov 2015 to July 2016)
 *Bar Manager and Floor Supervisor*
 
 ## Interests
 - Making Clothes 
 - Any and all sports
-- 
+- Music 
+- Eating
