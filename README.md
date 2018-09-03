@@ -1,7 +1,12 @@
-## Bibi Collins
-[Skills](#skills)___[Education](#education)___[Experience](#experience)___[Projects](#projects)
+## Bibi Collins 
+[Skills](#skills)[Education](#education)[Experience](#experience)[Projects](#projects)    
+[![alt text][1.1]][1]
 
-I am currently studying on a 16 week intensive programming bootcamp - Makers Academy.
+[1.1]: https://imgur.com/KyoIhna.png
+
+[1]: https://www.linkedin.com/in/bibi-collins-a51b48136/
+
+I have recently finished a 16 week intensive programming bootcamp - [Makers](https://makers.tech/).
 I have always had a love of learning across all subject matters, and it is predominantly for this reason I discovered and soon became engrossed in the world of programming, it is the combination of mathematics, language and creativity that I find fascinating, paired with the opportunity for growth of and within the field.
 
 ## Projects
@@ -47,6 +52,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A Levels: Biology, History, Design
 -GCSE's: A*, 5 A's & 3 B's
 
+
 ## Other Skills
 
 #### Spanish Level C1
@@ -64,3 +70,5 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Optima Communications** (Nov 2016 to Aug 2017)   
 *English Teacher*  
 **
+
+https://uk.linkedin.com/in/bibi-collins-a51b48136?trk=profile-badge.png
