@@ -1,8 +1,10 @@
 ## Bibi Collins
-[Skills](#skills) [Education](#education) [Experience](#experience)
+[Skills](#skills)___[Education](#education)___[Experience](#experience)___[Projects](#projects)
 
 I am currently studying on a 16 week intensive programming bootcamp - Makers Academy.
 I have always had a love of learning across all subject matters, and it is predominantly for this reason I discovered and soon became engrossed in the world of programming, it is the combination of mathematics, language and creativity that I find fascinating, paired with the opportunity for growth of and within the field.
+
+## Projects
 
 ## Skills
 
