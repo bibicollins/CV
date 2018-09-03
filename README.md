@@ -5,6 +5,10 @@ I am currently studying on a 16 week intensive programming bootcamp - Makers Aca
 I have always had a love of learning across all subject matters, and it is predominantly for this reason I discovered and soon became engrossed in the world of programming, it is the combination of mathematics, language and creativity that I find fascinating, paired with the opportunity for growth of and within the field.
 
 ## Projects
+| Project link | Description | Date started | Languages & Technologies | 
+|--------------|-------------|--------------|--------------------------|
+| [Bank Tech Test](https://github.com/bibicollins/Bank_tech_test) | Simulating a professional level tech test using Ruby to create a simple bank account that can print a summary of transactions in the console | Week 10 of makers academy | Ruby, Rspec | 
+| [Array of Sunshine](https://github.com/bibicollins/array_of_sunshine) | The final project at makers academy, built in a group of 4 during the last 2 weeks of the course. We built an educational tool for beginner programmers wanting to sharpen up their array method knowledge within Javascript, Ruby or Python. The application is built with a react front-end and an express backend. Fully deployed on heroku [Hip-Hip-Array](https://hip-hip-array.herokuapp.com/) | Weeks 11 & 12 of Makers Academy | React, Express, Heroku, Nodejs, Jest, Enzyme, Javascript, Ruby, Python | 
 
 ## Skills
 
