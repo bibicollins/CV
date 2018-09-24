@@ -29,7 +29,7 @@ I am a big proponent of teamwork. I grew up in a large family, a dynamic where b
 I wanted to learn a foreign language, so I took my Spanish GCSE and moved to Bilbao in July 2016. I studied a TEFL course online and quickly got a job as an English teacher at an immersive language course teaching predominantly Business English. I had to adapt to the classroom and given that I had no prior teaching or business experience this demonstrated that I am a quick learner. I did this whilst adapting to a new place, culture and language. This showed to be useful at Makers as we were learning multiple different skills and work practices all in a new environment working closely with new people. 
 
 #### Communication
-Good communication begins with listening. I have been told on multiple occasions that one of my best qualities the ability to listen. I listen so I can make the best decision on how to communicate with people, and to properly understand what they want to convey. This made pairing, though a new work process, an easy transition for me. I find I work best when I can bounce my ideas off others and also justify my decisions through vocalising them. 
+Good communication begins with listening. I have been told on multiple occasions that one of my best qualities is my ability to listen. I listen so I can make the best decision on how to communicate with people, and to properly understand what they want to convey. This made pairing, though a new work process, an easy transition for me. I find I work best when I can bounce my ideas off others and also justify my decisions through vocalising them. 
 
 
 ## Education
